@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/bradley/Desktop/COMPUTER/TRADING /CRYPTO WIZARDS/DYDX_Course/DYDX/venv"
+set -gx VIRTUAL_ENV "/Users/bradley/Desktop/COMPUTER/TRADING/WIZARDS/COURSE/DYDX/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
